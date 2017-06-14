@@ -25,8 +25,12 @@ a {
   text-decoration: none;
   color: #39add1;
   font-weight: 700;
+  transition: color .2s ease-in-out;
   }
-
+.menu-img-color {
+  fill: #39add1;
+  transition: fill .2s ease-in-out;
+}
 nav li:hover a{
   color: #111;
 }
@@ -107,4 +111,39 @@ footer {
     display: none;
   }
 
+}
+/***** SVG STYLES ****/
+
+/* LOGO */
+.logo .st0{fill:#BA8058;}
+.logo .st1{fill:#EAAA7F;}
+.logo .st2{fill:#F4C6A6;}
+
+/* RED CORGI */
+.red .st0{fill:#BA8058;}
+.red .st1{fill:#FBFEFF;}
+.red .st2{fill:#2D3339;}
+.red .st3{fill:#EAAA7F;}
+
+/* FAWN CORGI */
+.fawn .st0{fill:#EAAA7F;}
+.fawn .st1{fill:#FBFEFF;}
+.fawn .st2{fill:#2D3339;}
+.fawn .st3{fill:#F4C6A6;}
+
+/* SABLE CORGI */
+.sable .st0{fill:#844B24;}
+.sable .st1{fill:#FBFEFF;}
+.sable .st2{fill:#2D3339;}
+.sable .st3{fill:#BA8058;}
+
+/* BLACK-TAN CORGI */
+.black-tan .st0{fill:#BA8058;}
+.black-tan .st1{fill:#52595F;}
+.black-tan .st2{fill:#FBFEFF;}
+.black-tan .st3{fill:#2D3339;}
+
+/***** TRANSITONS AND ANIMATIONS *****/
+.corgi-img:hover {
+  
 }
