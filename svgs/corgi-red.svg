@@ -1,35 +1,96 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <!-- Generator: Adobe Illustrator 19.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
-<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-	 viewBox="0 0 170 170" style="enable-background:new 0 0 170 170;" xml:space="preserve">
-<style type="text/css">
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.1"
+   id="Layer_1"
+   x="0px"
+   y="0px"
+   viewBox="0 0 170 170"
+   style="enable-background:new 0 0 170 170;"
+   xml:space="preserve"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="corgi-red.svg"><metadata
+     id="metadata33"><rdf:RDF><cc:Work
+         rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" /></cc:Work></rdf:RDF></metadata><defs
+     id="defs31" /><sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     id="namedview29"
+     showgrid="false"
+     inkscape:zoom="5.5529412"
+     inkscape:cx="72.491594"
+     inkscape:cy="70.18942"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g13" /><style
+     type="text/css"
+     id="style3">
 	.st0{fill:#BA8058;}
 	.st1{fill:#FBFEFF;}
 	.st2{fill:#2D3339;}
 	.st3{fill:#EAAA7F;}
-</style>
-<g>
-	<path class="st0" d="M165.3,31.5c-15.4-11.2-56.4,20.2-62.8,25.2c17,11.6,28,31.3,27.3,53.3c0,1.1-0.1,2.2-0.2,3.3
-		c12.8-8.1,18.9-27.9,18.9-27.9S182,43.6,165.3,31.5z"/>
-	<path class="st0" d="M130.8,109.1c-1,34.6-30,61.8-64.9,60.9C31.1,169,3.5,140.3,4.5,105.7s30-61.8,64.9-60.9
-		S131.8,74.5,130.8,109.1z"/>
-	<path class="st1" d="M78.8,94.5l2.6-31.4c0.6-2.3-0.8-4.6-3.1-5.1c-2.3-0.6-4.6,0.8-5.2,3.1L62.6,91.4C44,92.1,29,107.3,29,125.9
-		c-0.1,19.2,15.6,34.8,34.9,34.9c19.4,0.1,35.2-15.4,35.2-34.6C99.2,112.2,90.8,100.1,78.8,94.5z"/>
-	<g>
-		<path class="st2" d="M66.5,111.6c-7.1-1.1-14.3,1.2-15.5,8.3c-1.1,7,4.6,13.8,11.8,15c7.1,1.1,14.7-3.5,15.8-10.6
-			C79.7,117.3,73.6,112.8,66.5,111.6z"/>
-		<path class="st2" d="M39.6,76c-4.1-0.8-8,1.9-8.8,5.9c-0.8,4,1.9,7.9,5.9,8.7c4.1,0.8,8-1.9,8.8-5.9C46.4,80.7,43.7,76.8,39.6,76z
-			"/>
-		<path class="st2" d="M104.4,88.4c-4.1-0.8-8,1.9-8.8,5.9c-0.8,4,1.9,7.9,5.9,8.7c4.1,0.8,8-1.9,8.8-5.9
-			C111.2,93,108.5,89.1,104.4,88.4z"/>
-	</g>
-	<g>
-		<path class="st3" d="M106.9,74.7c-5.4-0.8-10.1,0.4-10.5,2.8c-0.4,2.4,3.7,5,9.1,5.8c5.4,0.8,10.1-0.4,10.5-2.8
-			C116.4,78.1,112.3,75.5,106.9,74.7z"/>
-		<path class="st3" d="M42.1,62.3c-5.4-0.8-10.1,0.4-10.5,2.8c-0.4,2.4,3.7,5,9.1,5.8c5.4,0.8,10.1-0.4,10.5-2.8
-			C51.6,65.8,47.5,63.2,42.1,62.3z"/>
-	</g>
-	<path class="st0" d="M10.5,84.2c8.2-19.5,26.1-33.9,47.6-37.6C54.2,40.3,24.5-6.8,8.9,0.8C-7.7,9,4,56.9,4,56.9S2.8,71.5,10.5,84.2
-		z"/>
-</g>
-</svg>
+</style><g
+     id="g5"><path
+       class="st0"
+       d="M165.3,31.5c-15.4-11.2-56.4,20.2-62.8,25.2c17,11.6,28,31.3,27.3,53.3c0,1.1-0.1,2.2-0.2,3.3   c12.8-8.1,18.9-27.9,18.9-27.9S182,43.6,165.3,31.5z"
+       id="path7" /><path
+       class="st0"
+       d="M130.8,109.1c-1,34.6-30,61.8-64.9,60.9C31.1,169,3.5,140.3,4.5,105.7s30-61.8,64.9-60.9   S131.8,74.5,130.8,109.1z"
+       id="path9" /><path
+       class="st1"
+       d="M78.8,94.5l2.6-31.4c0.6-2.3-0.8-4.6-3.1-5.1c-2.3-0.6-4.6,0.8-5.2,3.1L62.6,91.4C44,92.1,29,107.3,29,125.9   c-0.1,19.2,15.6,34.8,34.9,34.9c19.4,0.1,35.2-15.4,35.2-34.6C99.2,112.2,90.8,100.1,78.8,94.5z"
+       id="path11" /><g
+       id="g13"><path
+         class="st2"
+         d="M66.5,111.6c-7.1-1.1-14.3,1.2-15.5,8.3c-1.1,7,4.6,13.8,11.8,15c7.1,1.1,14.7-3.5,15.8-10.6    C79.7,117.3,73.6,112.8,66.5,111.6z"
+         id="path15" /><path
+         style="opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:20;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="path4161"
+         sodipodi:type="arc"
+         sodipodi:cx="104.62924"
+         sodipodi:cy="94.454445"
+         sodipodi:rx="7.7436442"
+         sodipodi:ry="7.2934322"
+         sodipodi:start="0.16443724"
+         sodipodi:end="6.2635154"
+         sodipodi:open="true"
+         d="m 112.26843,95.648359 a 7.7436442,7.2934322 0 0 1 -8.55398,6.048451 7.7436442,7.2934322 0 0 1 -6.808575,-7.76983 7.7436442,7.2934322 0 0 1 7.927445,-6.763434 7.7436442,7.2934322 0 0 1 7.53807,7.147447" /><path
+         style="opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:20;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="path4161-6"
+         sodipodi:type="arc"
+         sodipodi:cx="39.079144"
+         sodipodi:cy="83.019066"
+         sodipodi:rx="7.7436442"
+         sodipodi:ry="7.2934322"
+         sodipodi:start="0.16443724"
+         sodipodi:end="6.2635154"
+         sodipodi:open="true"
+         d="m 46.718331,84.21298 a 7.7436442,7.2934322 0 0 1 -8.553975,6.048447 7.7436442,7.2934322 0 0 1 -6.80858,-7.769826 7.7436442,7.2934322 0 0 1 7.927442,-6.763434 7.7436442,7.2934322 0 0 1 7.538072,7.147447" /></g><g
+       id="g21"><path
+         class="st3"
+         d="M106.9,74.7c-5.4-0.8-10.1,0.4-10.5,2.8c-0.4,2.4,3.7,5,9.1,5.8c5.4,0.8,10.1-0.4,10.5-2.8    C116.4,78.1,112.3,75.5,106.9,74.7z"
+         id="path23" /><path
+         class="st3"
+         d="M42.1,62.3c-5.4-0.8-10.1,0.4-10.5,2.8c-0.4,2.4,3.7,5,9.1,5.8c5.4,0.8,10.1-0.4,10.5-2.8    C51.6,65.8,47.5,63.2,42.1,62.3z"
+         id="path25" /></g><path
+       class="st0"
+       d="M10.5,84.2c8.2-19.5,26.1-33.9,47.6-37.6C54.2,40.3,24.5-6.8,8.9,0.8C-7.7,9,4,56.9,4,56.9S2.8,71.5,10.5,84.2   z"
+       id="path27" /></g></svg>

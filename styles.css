@@ -144,6 +144,11 @@ footer {
 .black-tan .st3{fill:#2D3339;}
 
 /***** TRANSITONS AND ANIMATIONS *****/
-.corgi-img:hover {
-  
+.eye {
+  transition: transform .4s ease-in-out;
+  transform-origin: 50% 50%;
+}
+.corgi-img:hover .eye {
+  transform: scale(1.3);
+
 }
