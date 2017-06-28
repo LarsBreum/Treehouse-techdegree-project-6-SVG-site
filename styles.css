@@ -107,7 +107,7 @@ footer {
   .st1 {
     display: initial;
   }
-  header h1 {
+  .logo-header {
     display: none;
   }
 
@@ -115,31 +115,31 @@ footer {
 /***** SVG STYLES ****/
 
 /* LOGO */
-.logo .st0{fill:#BA8058;}
+.logo .st0{fill:#FFB808;}
 .logo .st1{fill:#EAAA7F;}
 .logo .st2{fill:#F4C6A6;}
 
 /* RED CORGI */
 .red .st0{fill:#BA8058;}
-.red .st1{fill:#FBFEFF;}
-.red .st2{fill:#2D3339;}
-.red .st3{fill:#EAAA7F;}
+.red .st1{fill:#E88D08;}
+.red .st2{fill:#3AD6FF;}
+.red .st3{fill:#E85623;}
 
 /* FAWN CORGI */
-.fawn .st0{fill:#EAAA7F;}
+.fawn .st0{fill:#55FFA6;}
 .fawn .st1{fill:#FBFEFF;}
-.fawn .st2{fill:#2D3339;}
+.fawn .st2{fill:#FF3930;}
 .fawn .st3{fill:#F4C6A6;}
 
 /* SABLE CORGI */
 .sable .st0{fill:#844B24;}
-.sable .st1{fill:#FBFEFF;}
-.sable .st2{fill:#2D3339;}
+.sable .st1{fill:#E8BF20;}
+.sable .st2{fill:#23FF5C;}
 .sable .st3{fill:#BA8058;}
 
 /* BLACK-TAN CORGI */
 .black-tan .st0{fill:#BA8058;}
-.black-tan .st1{fill:#52595F;}
+.black-tan .st1{fill:#E8BF20;}
 .black-tan .st2{fill:#FBFEFF;}
 .black-tan .st3{fill:#2D3339;}
 
